@@ -1,6 +1,7 @@
 <h1>Changelog</h1>
 <details>
   <summary><h2>February 22, 2025 9 (0.3.0)</summary>
+  <p>• Changed Changelog to redirect to a new changelog page in GitHub</p>
 </details>
 
 <details>
