@@ -1,7 +1,10 @@
 <h1>Changelog</h1>
 <details>
   <summary><h2>February 22, 2025 9 (0.3.0)</summary>
+  <p>Welcome to update 0.3.0. Another feature that was added is the Events page. That page will show events like landings, conferences, and flybys. You can click on the card to learn more about the event.</p>
   <p>• Changed Changelog to redirect to a new changelog page in GitHub</p>
+  <p>• Updated launch information</p>
+  <p>• Added Events Page</p>
 </details>
 
 <details>
