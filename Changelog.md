@@ -1,6 +1,14 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>Bebruary 26, 2026 11 (0.3.2)</h2>
+  </summary>
+  <p>• Updated launch information</p>
+</details>
+
+
+<details>
+  <summary>
     <h2>February 23, 2025 10 (0.3.1)</h2>
   </summary>
   <p>• Updated launch information</p>
