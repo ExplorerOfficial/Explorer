@@ -1,7 +1,16 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>Bebruary 26, 2026 11 (0.3.2)</h2>
+    <h2>February 28, 2025 12 (0.3.3)</h2>
+  </summary>
+  <p>• Updated launch information</p>
+  <p>• Updated Event information</p>
+  <p>• Updated Starship Test Flight 8 page</p>
+</details>
+
+<details>
+  <summary>
+    <h2>February 26, 2025 11 (0.3.2)</h2>
   </summary>
   <p>• Updated launch information</p>
 </details>
