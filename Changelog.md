@@ -1,6 +1,31 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 3, 2025 13(0.4.0)</h2>
+  </summary>
+  <p>This update includes new icons and a page. In the navigation bar, I added costom icons to better fit the content in the navigation. The Artemis one I made myself from scratch. Another page added is the Rovers page which will give you information about different rovers from various agencies/providers. Right now, VIPER is the only avaliable one, but more will come with future updates.</p>
+  <ul>
+    <li>Updated launch information</li>
+    <li>Added costom icons in navigation drawer</li>
+    <li>Updated Updates page</li>
+    <li>Added three new pages
+      <ol>
+        <li>Rovers</li>
+        <li>NASA Rovers</li>
+        <li>VIPER</li>
+      </ol>
+    </li>
+    <li>Added button so users can sign the petition to save VIPER</li>
+    <li>Added legend in About page
+      <ul>
+        <li>This will help users understand what each symbol means (etc. Status circle colors)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>February 28, 2025 12 (0.3.3)</h2>
   </summary>
   <p>• Updated launch information</p>
