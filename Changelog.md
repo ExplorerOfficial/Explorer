@@ -7,6 +7,7 @@
     <li>Updated launch information</li>
     <li>Updated event information</li>
     <li>Updated news information</li>
+    <li>Last updated section on about page now links directly to this changelog within Github when clicked on</li>
   </ul>
 </details>
 
