@@ -1,7 +1,18 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>March 3, 2025 13(0.4.0)</h2>
+    <h2>March 3, 2025 14(0.4.1)</h2>
+  </summary>
+  <ul>
+    <li>Updated launch information</li>
+    <li>Updated event information</li>
+    <li>Updated news information</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2>March 2, 2025 13(0.4.0)</h2>
   </summary>
   <p>This update includes new icons and a page. In the navigation bar, I added costom icons to better fit the content in the navigation. The Artemis one I made myself from scratch. Another page added is the Rovers page which will give you information about different rovers from various agencies/providers. Right now, VIPER is the only avaliable one, but more will come with future updates.</p>
   <ul>
