@@ -1,6 +1,16 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 4, 2025 15(0.4.2)</h2>
+  </summary>
+  <ul>
+    <li>Updated launch information</li>
+    <li>Updated event information</li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>March 3, 2025 14(0.4.1)</h2>
   </summary>
   <ul>
