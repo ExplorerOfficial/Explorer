@@ -1,6 +1,34 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 5, 2025 16(0.4.3)
+  </summary>
+  <ul>
+    <li>
+      Landing Page
+      <ul>
+        <li>Added a news update</li>
+      </ul>
+    </li>
+    <li>
+      Launch page
+        <ul>
+          <li>Updated SpaceX launch information</li>
+          <li>Updated NASA launch information</li>
+        </ul>
+    </li>
+    <li>
+      Updates page
+      <ul>
+        <li>Added an Update</li>
+        <li>Centered title on March 3, 2025 update</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>March 4, 2025 15(0.4.2)</h2>
   </summary>
   <ul>
