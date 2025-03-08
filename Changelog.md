@@ -1,7 +1,47 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>March 6, 2025 17(0.4.4)</h2>
+    <h2>March 8, 2025 18(0.5.0)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launch page
+        <ul>
+          <li>Updated NASA launch schedule</li>
+          <li>Updated SpaceX launch schedule</li>
+        </ul>
+    </li>
+       <li>
+         Starship
+       </li>
+        <ul>
+          <li>Added Starship rocket statistics</li>
+          <li>Added flight 9 page</li>
+        </ul>
+    </li>
+    <li>
+      Landing page
+        <ul>
+          <li>Added Starship IFT-9 to featured launches section</li>
+          <li>Removed Starship IFT-9 from features launches section</li>
+          <li>Removed something from news section</li>
+        </ul>
+    </li>
+    <li>
+      Events page
+        <ul>
+          <li>Removed Events page
+            <ul>
+              <li>Too much for me to update</li>
+          </li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2>March 7, 2025 17(0.4.4)</h2>
   </summary>
   <ul>
     <li>
