@@ -1,6 +1,54 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 6, 2025 17(0.4.4)</h2>
+  </summary>
+  <ul>
+    <li>
+      Landing page
+      <ul>
+        <li>Fixed issue for an image not loading on the news section</li>
+    </li>
+      </ul>
+  </ul>
+  <ul>
+    <li>
+      Updates page
+      <ul>
+        <li>Text align for titles <strong>should</strong> be fixed</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Launch schedules
+        <ul>
+          <li>Updated Arianespace</li>
+          <li>Updated NASA</li>
+          <li>Updated SpaceX</li>
+    </li>
+        </ul>
+  </ul>
+  <ul>
+    <li>
+      Starship Test Flight 8
+      <ul>
+        <li>Added post flight information</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      VIPER
+        <ul>
+          <li>Spell check</li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>March 5, 2025 16(0.4.3)
   </summary>
   <ul>
