@@ -1,6 +1,21 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 17, 2025 19(0.5.1)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launch Schedules
+        <ul>
+          <li>Updated NASA launch schedule</li>
+          <li>Updated SpaceX launch schedule</li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>March 8, 2025 18(0.5.0)</h2>
   </summary>
   <ul>
