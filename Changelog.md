@@ -1,6 +1,39 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 18, 2025 20(0.5.2)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launches
+        <ul>
+          <li>Updated Rocket Lab launch schedule</li>
+          <li>Updated SpaceX launch schedule</li>
+        </ul>
+    </li>
+    <li>
+      Home Page
+        <ul>
+          <li>Updated News section</li>
+        </ul>
+    </li>
+    <li>
+      Navigation
+        <ul>
+          <li>Changed Updates Icon from clock to newspaper</li>
+        </ul>
+    </li>
+    <li>
+      Updates Page
+        <ul>
+          <li>Added Update</li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>March 17, 2025 19(0.5.1)</h2>
   </summary>
   <ul>
