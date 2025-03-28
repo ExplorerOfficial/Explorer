@@ -1,6 +1,25 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>March 21, 2025 23(0.5.5)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launches
+        <ul>
+          <li>Updated Arianespace launches</li>
+          <li>Updated Blue Origin launches</li>
+          <li>Updated NASA launches</li>
+          <li>Updated Rocket Lab launches</li>
+          <li>Updated Roscosmos launches</li>
+          <li>Updated SpaceX launches</li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
   <h2>March 21, 2025 22(0.5.4)</h2>
   </summary>
 <ul>
