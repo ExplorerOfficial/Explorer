@@ -1,6 +1,21 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>April 14, 2025 25(0.5.7)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launches
+        <ul>
+          <li>Updated Roscosmos launches</li>
+          <li>Updated SpaceX launches</li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>April 13, 2025  24(0.5.6)</h2>
   </summary>
   <ul>
