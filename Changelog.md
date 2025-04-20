@@ -1,7 +1,32 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>April 14, 2025 26(0.5.8)</h2>
+    <h2>April 19, 2025 27(0.6.0)</h2>
+  </summary>
+  <ul>
+    <li>
+      Rockets
+        <ul>
+          <li>
+            Added more NASA rockets
+              <ul>
+                <li>Added Atlas-Agena rocket</li>
+                <li>Added Thor-Ablestar rocket</li>
+                <li>Added Thor-Delta rocket</li>
+                <li>Added Mercury-Redstone rocket</li>
+                <li>Added Mercury-Atlas rocket</li>
+                <li>Added Saturn I rocket</li>
+                <li>Added Atlas-Centaur rocket</li>
+              </ul>
+          </li>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2>April 18, 2025 26(0.5.8)</h2>
   </summary>
   <ul>
     <li>
