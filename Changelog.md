@@ -1,6 +1,61 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>May 2, 2025 28(0.7.0)</h2>
+  </summary>
+  <ul>
+    <li>
+      Rockets
+        <ul>
+          <li>
+            Added more NASA rockets
+              <ul>
+                <li>Added Little Joe II rocket</li>
+                <li>Added Titan IIIC rocket</li>
+                <li>Added Saturn 1B rocket</li>
+                <li>Added Saturn V rocket</li>
+              </ul>
+          </li>
+        </ul>
+    </li>
+    <li>
+      Launches
+        <ul>
+          <li>
+            Updated Arianespace launch schedule
+              <ul>
+                <li>Removed Biomass launch</li>
+              </ul>
+          </li>
+          <ul>
+            <li>
+              Updated NASA launch schedule
+                <ul>
+                  <li>Removed CRS-32 launch</li>
+                  <li>Updated Axiom Mission 4 launch date</li>
+                  <li>Updated NIZAR launch date</li>
+                </ul>
+            </li>
+            <li>
+              Updated SpaceX launch schedule
+                <ul>
+                  <li>Removed Dragon CRS-32</li>
+                </ul>
+            </li>
+            <li>
+              Updated ULA launch schedule
+                <ul>
+                  <li>Removed Project Kuiper launch</li>
+                </ul>
+            </li>
+          </ul>
+        </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>April 19, 2025 27(0.6.0)</h2>
   </summary>
   <ul>
