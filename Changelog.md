@@ -1,6 +1,38 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>may 4, 2025 29(0.7.1)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launch Schedule
+      <ul>
+        <li>
+          SpaceX
+          <ul>
+            <li>Added Axiom Mission 4 launch</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Home Page
+      <ul>
+        <li>
+          News
+          <ul>
+            <li>Added two cards</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>May 2, 2025 28(0.7.0)</h2>
   </summary>
   <ul>
