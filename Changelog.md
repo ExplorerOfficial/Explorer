@@ -1,7 +1,7 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>may 4, 2025 29(0.7.1)</h2>
+    <h2>may 4, 2025 29(0.8.0)</h2>
   </summary>
   <ul>
     <li>
@@ -26,6 +26,15 @@
             <li>Added two cards</li>
           </ul>
         </li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Navigation
+      <ul>
+        <li>Added apps button that will take you to my published apps on Google Play</li>
+        <li>Added Feedback button that allows you to provide feedback</li>
       </ul>
     </li>
   </ul>
