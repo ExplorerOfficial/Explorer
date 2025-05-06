@@ -1,7 +1,34 @@
 <h1>Changelog</h1>
 <details>
   <summary>
-    <h2>may 4, 2025 29(0.8.0)</h2>
+    <h2>May 5, 2025 30(0.8.1)</h2>
+  </summary>
+  <ul>
+    <li>
+      Launches
+      <ul>
+        <li>
+          Rocket Lab
+          <ul>
+            <li>Added The Sea God Sees launch</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <ul>
+      <li>
+        SpaceX
+        <ul>
+          <li>Added Starlink Group 6-93 launch</li>
+        </ul>
+      </li>
+    </ul>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2>May 4, 2025 29(0.8.0)</h2>
   </summary>
   <ul>
     <li>
