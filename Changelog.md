@@ -1,6 +1,56 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>May 7, 2025 (1.0.0)</h2>
+  </summary>
+  <p>Welcome to the official release for this app. Hope you like it and can't wait to gather feedback from you!</p>
+  <ul>
+    <li>
+      Home
+      <ul>
+        <li>Made images get larger when swiped through image carousel</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Launches
+      <ul>
+        <li>
+          NASA
+          <ul>
+            <li>Added SpaceX Crew-11 launch</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      SpaceX
+      <ul>
+        <li>Removed Starlink launch</li>
+        <li>Changed launch date on Starship IFT-9</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Rockets
+      <ul>
+        <li>
+          Starship
+          <ul>
+            <li>Updated launch date for test flight 9</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
     <h2>May 5, 2025 30(0.8.1)</h2>
   </summary>
   <ul>
