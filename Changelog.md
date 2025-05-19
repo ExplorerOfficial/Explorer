@@ -1,6 +1,53 @@
 <h1>Changelog</h1>
 <details>
   <summary>
+    <h2>May 18, 2025 (1.0.1)</h2>
+  <summary>
+    <ul>
+      <li>
+        Launches
+        <ul>
+          <li>
+            NASA
+            <ul>
+              <li>Updated lauch date for Axiom Mission 4</li>
+            </ul>
+          </li>
+          <li>
+            Rocket Lab
+            <ul>
+              <li>Removed The See God Sees launch</li>
+            </ul>
+          </li>
+          <li>
+            SpaceX
+            <ul>
+              <li>Updated launch date for Axiom Mission 4</li>
+              <li>Updated launch date for Starship</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        Rockets
+        <ul>
+          <li>
+            SpaceX
+            <ul>
+              <li>
+                Starship
+                <ul>
+                  <li>Updated Starship test flight 9 page</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+</details>
     <h2>May 7, 2025 (1.0.0)</h2>
   </summary>
   <p>Welcome to the official release for this app. Hope you like it and can't wait to gather feedback from you!</p>
