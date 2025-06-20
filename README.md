@@ -5,6 +5,7 @@
 <p>In the discussions page, you can start or take part in discussions if you'd like to actively participate in this app's development. The Wiki page contains detailed information about the app, anything that is readily available once it's completed.</p>
 
 <h2>Discussions Guidelines</h2>
+<p>Discussions is a way for you as the user to actively engage in the development of Explorer. Create or take part in conversations about Explorer.</p>
 <p>There is no regulation for speech because I want to encourage everyone to speak freely. Although, you'll be limited to GitHub's guidelines which will be enforced by Github, not me.</p>
 <ol>
   <li>No Spamming: Any messages I see as spam will be deleted. I would like to keep these discussions clean and easy to navigate between relavent topcs.</li>
