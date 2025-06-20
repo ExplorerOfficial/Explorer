@@ -1,18 +1,15 @@
-# Explorer
-Explorer is an app that lets you stay updated on up to date information about various space missions. this file explains how each feature of the app works.
+<h1>Explorer</h1>
+<p>Welcome! This respository is where you can learn about Explorer, recieve updates, and take part in discussions.</p>
 
-## 📄Pages
-### 🏠Home
-The home page is the landing page for the app. There are currently three different elements on the home page. The content is swipable, so you swipe the images to see others. Clicking on the image takes you to a website to learn more about.
+<h2>What you'll find here</h2>
+<p>In the discussions page, you can start or take part in discussions if you'd like to actively participate in this app's development. The Wiki page contains detailed information about the app, anything that is readily available once it's completed.</p>
 
-The "news" section provides you with some important news updates. The "Featured Launches" shows the most important launches that are coming up. The "Featured Missions" shows the most important missions that are currently active. More missions will be added to that slide.
+<h2>Discussions Guidelines</h2>
+<p>There is no regulation for speech because I want to encourage everyone to speak freely. Although, you'll be limited to GitHub's guidelines which will be enforced by Github, not me.</p>
+<ol>
+  <li>No Spamming: Any messages I see as spam will be deleted. I would like to keep these discussions clean and easy to navigate between relavent topcs.</li>
+  <li>Relavent Topics Only: This is only a place to discuss Explorer. I have created a category where you can talk about whatever you want. Off topic conversations should go in that category. This is only to keep the discussions clean and help make it easy to find relavent content.</li>
+  <li>No promotions: This is a place to discuss Explorer, not promote your apps, website, books, whatever your projects are. However, I will allow them to be mentioned if it connects to the conversation that is about Explorer. If you want to talk about your personal projects with the community, you can gladly do so in the off topic category.</li>
+</ol>
 
-### 🚀Launches
-This page displays the launch schedule from various space providers. As well as two government space agencies, NASA and Roscosmos. When you click on the navigation button, it will take you to a place where you can pick what space provider you want to view. They are in alphabetical order and clicking on one will take you to their launch schedule. If one is empty, it means that there are no confirmed launches at the moment.
-
-### 🖥️Livestreams
-This page has no content at the moment and is being worked on. Content for this page will be added hopefully by the end of the year.
-
-The livestreams page will be where you can view coverage on different space missions. SpaceX will probably be empty since I'll be embedding Youtube videos and they no longer publish livestreams on Youtube. Clicking on it currently does nothing except for giving a message, but when it's done it will take you to a page where you can view what space agency you want to see coverage from.
-
-
+<p>Not trying to regulate how you communicate, I created an off topic category to allow you to communicate however you want. These regulations are just set to help keep the discussions clean and help people find what they need.</p>
