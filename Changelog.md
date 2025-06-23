@@ -1,3 +1,31 @@
+<h2>June 23, 2025 (1.2.0)</h2>
+      <h3>Arianespace Launch Schedule</h3>
+      <p>Updated launch date for CO3D & MicroCarb launch</p>
+      <h3>Blue Origin Launch Schedule</h3>
+      <p>Added NS-33 launch</p>
+      <p>Removed ESCAPADE launch</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Updated launch date for Axiom Mission 4</p>
+      <h3>RocketLab Launch Schedule</h3>
+      <p>Added Symphony In The Stars Launch</p>
+      <p>Removed Acadia Mission launch</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Added Transporter 14 launch</p>
+      <p>Added Starlink Group 10-34 launch</p>
+      <p>Updated launch date for Axiom Mission 4</p>
+      <p>Added Starlink Group 15-7 launch</p>
+      <p>Updated Starship Integrated Test Flight 10 launch</p>
+      <h3>NASA Rockets</h3>
+      <p>Added the Space Launch System rocket</p>
+      <h3>Rockets</h3>
+      <p>Added Northrop Grumman Rockets page</p>
+      <p>Added RocketLab Rockets page</p>
+      <h3>Northrop Grumman Rockets</h3>
+      <p>Added Anares rocket</p>
+      <h3>RocketLab</h3>
+      <p>Electron</p>
+      <p>Neutron</p>
+
 <h2>June 7, 2025 (1.1.0)</h2>
       <h3>Blue Origin Launch Schedule</h3>
       <p>Removed NS-32</p>
