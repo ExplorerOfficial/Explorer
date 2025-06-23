@@ -23,8 +23,8 @@
       <h3>Northrop Grumman Rockets</h3>
       <p>Added Anares rocket</p>
       <h3>RocketLab</h3>
-      <p>Electron</p>
-      <p>Neutron</p>
+      <p>Added Electron rocket</p>
+      <p>Added Neutron rocket</p>
 
 <h2>June 7, 2025 (1.1.0)</h2>
       <h3>Blue Origin Launch Schedule</h3>
