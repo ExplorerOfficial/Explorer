@@ -1,3 +1,35 @@
+<h2>July 13, 2025 (1.2.1)</h2>
+      <h3>Blue Origin Launch Schedule</h3>
+      <p>Removed NS-33 launch</p>
+      <p>Added EscaPADE launch</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Removed Axiom Mission 4 launch</p>
+      <p>Updated NISAR launch date</p>
+      <p>Updated Starliner launch date</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Removed Axiom Mission 4 launch</p>
+      <p>Added TRACERS launch</p>
+      <p>Added IMAP launch</p>
+      <h3>Northrop Grumman Launches</h3>
+      <p>Removed STP-S29A launch</p>
+      <p>Added Cygnus CRS-2 NG-24 launch</p>
+      <h3>Rocket Lab Launch Schedule</h3>
+      <p>Removed Symphony In The Stars launch</p>
+      <p>Removed Hawk Eye 360 launch</p>
+      <p>Added JAKE 4 launch</p>
+      <h3>Roscosmos Launch Schedule</h3>
+      <p>Removed Progress MS-31 launch</p>
+      <p>Added Ionosfera-M 3 & 4 launch</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Removed Transporter-14 launch</p>
+      <p>Removed Starlink Group 10-34 launch</p>
+      <p>Removed Starlink Group 15-7 launch</p>
+      <p>Added Starlink Group 15-2 launch</p>
+      <p>Added Project Kuiper launch</p>
+      <p>Updated Starship Integrated Test Flight 10 launch date</p>
+      <h3>Starship Integrated Test Flight 10 Page</h3>
+      <p>Updated page</p>
+
 <h2>June 23, 2025 (1.2.0)</h2>
       <h3>Arianespace Launch Schedule</h3>
       <p>Updated launch date for CO3D & MicroCarb launch</p>
