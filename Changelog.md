@@ -1,3 +1,26 @@
+<h2>July 14, 2025 (1.2.2)</h2>
+      <h3>Arianespace Launch Schedule</h3>
+      <p>Updated CO3D & MicroCarb launch date</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Added Astrobotic's Griffin Mission One launch</p>
+      <p>Added Intuitive Machines 3 launch</p>
+      <p>Added Blue Ghost Mission 2</p>
+      <p>Added Nancy Grace Roman Space Telescope launch</p>
+      <p>Added Draper launch</p>
+      <h3>Rocket Lab Launch Schedule</h3>
+      <p>Updated JAKE 4 launch date</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Updated Starlink Group 15-2 launch date</p>
+      <p>Added Starlink Group 17-3 launch</p>
+      <p>Added Starlink Group 17-2 launch</p>
+      <p>Added TRACERS launch</p>
+      <p>Added Bandwagon 4 launch</p>
+      <p>Added O3b mPower 9-10 launch</p>
+      <p>Added Crew-11 launch</p>
+      <h3>Home Page</h3>
+      <p>Updated News section</p>
+      <p>Updated Featured Launches section</p>
+
 <h2>July 13, 2025 (1.2.1)</h2>
       <h3>Blue Origin Launch Schedule</h3>
       <p>Removed NS-33 launch</p>
