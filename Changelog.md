@@ -1,3 +1,12 @@
+<h2>July 15, 2025 (1.2.3)</h2>
+      <h3>NASA Launch Schedule</h3>
+      <p>Added Blue Moon Mark 1 launch</p>
+      <p>Added Blue Ghost Mission 3 launch</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Updated O3b mPower 9-10 launch</p>
+      <p>Removed Bandwagon 4 launch</p>
+      <p>Added SDA Tranche 1 Transport Layer B launch</p>
+
 <h2>July 14, 2025 (1.2.2)</h2>
       <h3>Arianespace Launch Schedule</h3>
       <p>Updated CO3D & MicroCarb launch date</p>
