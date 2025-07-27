@@ -1,3 +1,51 @@
+<h2>___, 2025 (2.0.0)</h2>
+      <p>Welcome to the Navigation Update (2.0.0), this update is focused on making navigation easier. The app UI changed and so did the layout of pages. Let me know if you have any feedback!</p>
+      <h3>Navigation</h3>
+      <p>Added bottom navigation</p>
+      <p>Added navigaiton cards to main pages</p>
+      <h3>Arianespace Launch Schedule</h3>
+      <p>Changed card layout</p>
+      <h3>Blue Origin Launch Schedule</h3>
+      <p>Changed card layout</p>
+      <p>Removed NS-33 launch</p>
+      <p>Added NS-34 launch</p>
+      <p>Removed Uncrewed Lunar Demo</p>
+      <p>Removed Crewed Lunar Demo</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Changed card layout</p>
+      <p>Removed Axiom Mission 4 launch</p>
+      <p>Updated NISAR launch date</p>
+      <p>Updated Crew-11 launch date</p>
+      <p>Updated Starliner-1 launch date</p>
+      <p>Removed Artemis IV launch</p>
+      <p>Removed Artemis V launch</p>
+      <p>Removed Artemis VI launch</p>
+      <p>Removed Davinci launch</p>
+      <p>Added IMAP launch</p>
+      <p>Added Blue Moon Mark 1 launch</p>
+      <p>Added Griffin Mission 1 launch</p>
+      <p>Added Intuitive Machines 3 launch</p>
+      <p>Added Blue Ghost Mission 2 launch</p>
+      <p>Added the Nancy Grace Roman Space Telescope launch</p>
+      <p>Added Intuitive Machines 4 launch</p>
+      <p>Added Blue Ghost Mission 3 launch</p>
+      <h3>Rocket Lab Launch Schedule</h3>
+      <p>Changed launch cards</p>
+      <p>Removed Symphony In The Stars launch</p>
+      <p>Removed Hawk Eye-360 Flight 2 launch</p>
+      <p>Added JAKE 4 launch</p>
+      <h3>Roscosmos Launch Schedule</h3>
+      <p>Changed launch cards</p>
+      <p>Removed Progress MS-31 launch</p>
+      <p>Added Bion-M No. 2 launch</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Changed launch cards</p>
+      <p>Removed Transporter 14 launch</p>
+      <p>Removed Starlink Group 10-34 launch</p>
+      <p>Removed Axiom Mission 4 launch</p>
+      <p>Removed Starlink Group 15-7</p>
+      <p>Updated Starship Integrated Test Flight 10 launch date</p>
+
 <h2>July 15, 2025 (1.2.3)</h2>
       <h3>NASA Launch Schedule</h3>
       <p>Added Blue Moon Mark 1 launch</p>
