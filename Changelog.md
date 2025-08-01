@@ -1,5 +1,5 @@
-<h2>___, 2025 (2.0.0)</h2>
-      <p>Welcome to the Navigation Update (2.0.0), this update is focused on making navigation easier. The app UI changed and so did the layout of pages. Let me know if you have any feedback!</p>
+<h2>July 31, 2025 (2.0.0)</h2>
+      <p>Welcome to version 2.0.0, also known as The Navigation Update. For this update, the app has gone through many changes to make navigation easier and better to look at. The main big changes include switching to bottom navigation, navigation cards linking to internal pages, and added countdown timers mainly for launches. Let me knkow what you think about the update.</p>
       <h3>Navigation</h3>
       <p>Added bottom navigation</p>
       <p>Added navigaiton cards to main pages</p>
@@ -45,6 +45,7 @@
       <p>Removed Axiom Mission 4 launch</p>
       <p>Removed Starlink Group 15-7</p>
       <p>Updated Starship Integrated Test Flight 10 launch date</p>
+      <h3>Stopped tracking changes beyond this point</h3>
 
 <h2>July 15, 2025 (1.2.3)</h2>
       <h3>NASA Launch Schedule</h3>
