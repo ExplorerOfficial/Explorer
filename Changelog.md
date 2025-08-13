@@ -1,3 +1,25 @@
+<h2>July 12, 2025 (2.0.2)</h2>
+      <h3>Arianespace Launch Schedule</h3>
+      <p>Added Sentinel-1D launch</p>
+      <h3>Blue Origin Launch Schedule</h3>
+      <p>Removed NS-31 launch</p>
+      <p>Added EscaPADE launch</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Changed text overflow on Nancy Grace Roman Telescope</p>
+      <h3>Rocket Lab Launch Schedule</h3>
+      <p>Removed The Harvest Goddess Thrives launch</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Removed Starlink Group 11-25 launch</p>
+      <p>Removed Project Kuiper launch</p>
+      <p>Changed countdown timers to UTC timezone</p>
+      <p>Updated launch schedule information</p>
+      <p>Added Starlink Group 17-7 launch</p>
+      <p>Updated Starship launch</p>
+      <p>Changed text overflow for titles</p>
+      <p>Added Starlink Group 11-25 launch</p>
+      <p>Updated launch schedule card layers</p>
+      
+
 <h2>July 31, 2025 (2.0.0)</h2>
       <p>Welcome to version 2.0.0, also known as The Navigation Update. For this update, the app has gone through many changes to make navigation easier and better to look at. The main big changes include switching to bottom navigation, navigation cards linking to internal pages, and added countdown timers mainly for launches. Let me knkow what you think about the update.</p>
       <h3>Navigation</h3>
