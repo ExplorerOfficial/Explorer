@@ -1,4 +1,44 @@
-<h2>July 12, 2025 (2.0.2)</h2>
+<h2>August 19, 2025</h2>
+      <h3>Blue Origin Launch Schedule</h3>
+      <p>Added NS-35 launch</p>
+      <p>Changed launch times to UTC</p>
+      <h3>NASA Launch Schedule</h3>
+      <p>Added CRS-33 mission</p>
+      <p>Changed timezone to UTC</p>
+      <p>Added Sentinel-6B launch</p>
+      <p>Added Northrop Grumman CRS-23 launch</p>
+      <h3>Northrop Grumman Launch Schedule</h3>
+      <p>Changed timezone to UTC</p>
+      <p>Added Northrop Grumman CRS-23 launch</p>
+      <h3>Rocket Lab Launch Schedule</h3>
+      <p>Added Live, Laugh, Launch launch</p>
+      <p>Changed timezone to UTC</p>
+      <h3>SpaceX Launch Schedule</h3>
+      <p>Changed timezone to UTC</p>
+      <p>Removed Starlink Group 17-4 launch</p>
+      <p>Removed Starlink Group 10-20 launch</p>
+      <p>Removed Starlink Group 17-5 launch</p>
+      <p>Removed Bandwagon 4 launch</p>
+      <p>Removed SDA Tranche 1 Transport Layer B Mission launch</p>
+      <p>Removed Starlink Group 11-25 launch</p>
+      <p>Updated OTV-8 launch</p>
+      <p>Updated Dragon 17-6 launch</p>
+      <p>Updated SpaceX CRS-33 launch</p>
+      <p>Updated Starship Integrated Test Flight 10 launch</p>
+      <p>Added NOAS launch</p>
+      <p>Updated Starlink Group 10-11 launch</p>
+      <p>Artemis</p>
+      <p>Updated Artemis IV font sizes for table</p>
+      <p>Updated Artemis II font sizes for table and countdown</p>
+      <p>Updated Artemis III font sizes for table and countdown</p>
+      <p>Updated Artemis IV font sizes for table and countdown</p>
+      <p>Updated Artemis V font sizes for table and countdown</p>
+      <h3>Home Page</h3>
+      <p>Updated launch schedule cards</p>
+      <h3>Missions Page</h3>
+      <p>Updated countdown timers</p>
+
+<h2>August 12, 2025 (2.0.2)</h2>
       <h3>Arianespace Launch Schedule</h3>
       <p>Added Sentinel-1D launch</p>
       <h3>Blue Origin Launch Schedule</h3>
